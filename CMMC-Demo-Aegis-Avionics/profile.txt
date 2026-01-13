@@ -1,0 +1,7 @@
+Company Name: Aegis Avionics LLC
+Profile:
+- 25 employees
+- DoD subcontractor
+- Handles CUI
+- No dedicated security team
+- Uses Microsoft 365, laptops, cloud storage
