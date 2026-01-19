@@ -1,5 +1,6 @@
-## CMMC / NIST 800-171 Readiness Assessment Overview
-This repository demonstrates a CMMC / NIST SP 800-171 readiness assessment framework using a fictional organization to illustrate how a professional compliance engagement is scoped, executed, and delivered.
+## Project Name: CMMC / NIST 800-171 Readiness Assessment
+### Prepared by Nehwe Technologies
+### This repository demonstrates a CMMC / NIST SP 800-171 readiness assessment framework using a fictional organization to illustrate how a professional compliance engagement is scoped, executed, and delivered.
 
 The purpose of this repository is to:
 
