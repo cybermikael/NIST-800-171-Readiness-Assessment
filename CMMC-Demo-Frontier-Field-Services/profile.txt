@@ -1,0 +1,25 @@
+Frontier Field Services LLC — Demo Profile
+
+Organization Size:
+- Approximately 60 employees
+- Mix of office staff, supervisors, and field technicians
+
+Business Function:
+- Provides facilities maintenance and field services for Department of Defense installations
+- Supports infrastructure, utilities, and secured facilities
+
+CUI Characteristics:
+- Receives and processes Controlled Unclassified Information (CUI) related to facility layouts, security procedures, access coordination, and work orders
+- CUI is shared with supervisors, field teams, and subcontractors as required
+
+Technology Environment:
+- Microsoft 365 used for email, collaboration, and document sharing
+- Hybrid environment including an on-premises file server/NAS used for work-order storage
+- Field technicians use mobile devices and tablets to receive assignments and submit reports
+- Remote access enabled for supervisors and IT administration
+- Third-party subcontractors involved in select work activities
+
+Security Reality:
+- No dedicated security team
+- IT responsibilities shared between internal staff and a managed service provider
+- Physical access controls and mobile device security are operational concerns
